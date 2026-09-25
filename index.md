@@ -29,4 +29,3 @@ FloatCounter does not integrate third-party analytics, tracking SDKs, or adverti
 If you have any questions or feedback regarding this Privacy Policy, please contact us at:
 * **Developer:** NyxCodeAssembly
 * **Email:** NyxCodeAssembly@gmail.com
-* 
